@@ -27,3 +27,7 @@ remove-gd-addon StorageNode
 ```bash
 push-all-addons
 ```
+
+## Dependencies
+
+- [InventoryGodot](https://github.com/ChillCube/InventoryGodot)
